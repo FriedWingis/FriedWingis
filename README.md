@@ -7,9 +7,9 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  🔬 I’m currently working on C++, UX/UI Design, and Java
+  🔬 I’m currently working on C++, UX/UI Design, Django, and Java
   <br>
-  📚 I’m currently learning how to build Clothing and E-Commerce Website
+  📚 I’m currently learning how to build E-Commerce Website in Django
 </p>
 
 <hr>
