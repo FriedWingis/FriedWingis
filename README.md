@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3 align="center">Hello there, I'm FriedWingis</h3>
 
-<!--
-**FriedWingis/FriedWingis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+  Hi, I'm FriedWingis, aspiring cyber defense student and computer science engineer!
+  <br>
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  🔬 I’m currently working on C++, UX/UI Design, and Java
+  <br>
+  📚 I’m currently learning how to build Clothing and E-Commerce Website
+</p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=FriedWingis&show_icons=true&theme=gotham"></a>
+
+<hr>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h4 align="center"><a href=https://github.com/FriedWingis?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
