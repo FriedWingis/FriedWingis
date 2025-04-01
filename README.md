@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=FriedWingis&icon=8&color=12)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=FriedWingis&abbreviated=true&style=for-the-badge&color=red)](https://github.com/FriedWingis)
 
 # 💫 Who am I?
 I'm a cybersecurity student and a self-taught, full-stack developer, always eager to learn and improve. I take on new challenges every day to build on my knowledge and skills. My focus is on creating systems that are both secure and beautifully designed, combining functionality with a clean and efficient approach. Driven by curiosity and a love for innovation, I strive to grow and refine my craft, ensuring each project I work on is better than the last.
